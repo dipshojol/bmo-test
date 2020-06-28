@@ -1,17 +1,28 @@
-Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+## Getting Started
+These instructions will get you a copy of the project up and running on your local machine for review purposes.
 
-Prerequisites
+## Prerequisites
+```
 Nodejs installed locally.
+```
 
-Installing
-download the file
+### Installing
 
+```
+Clone or download the repository
+```
 
+Navigate to the directory with the repo
+
+```
 npm install
-npm start
-The server runs on port 3000
+```
 
+```
+npm start
+```
+
+The server runs on port 3000
 
 
 
